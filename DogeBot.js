@@ -80,8 +80,8 @@ const thumb = fs.readFileSync ('./media/dogetb.jpg')
 
 //══════════[ Developer Number ]══════════//
 
-developerNo = '916909137213'
-developerName= '🦄Dream Guy Xeon'
+developerNo = '916282376660'
+developerName= '🦄Zack Modz'
 
 //══════════[ Apikeys ]══════════//
 //----credit goes to all the respected owner---//
