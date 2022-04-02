@@ -35,7 +35,7 @@ const starts = async (DogeXeonOP = new WAConnection()) => {
 	console.log(color('\n> YT CHANNEL: Zack ','silver'))
 console.log(color('> GITHUB: Zack ','silver'))
 console.log(color('> WA NUMBER: +916282376660 ','silver'))
-console.log(color('  Xeon Bot Inc. 2022','mediumseagreen'))
+console.log(color('  Zack Bot Inc. 2022','mediumseagreen'))
     console.log(color('<>','red'), color('I Wrote This Script By Myself!\nNote, The Script Is Encrypted, So You Wont Be Able To Recode, If You Wish To Buy Decrypted Script Contact The Developer', 'yellow'))
     console.log(color('<>','red'), color('Source Code Version: 3.0', 'aqua'))
     console.log(color('<>','red'), color('But? Error? Suggestion? Visit Here:', 'aqua'), color('https://wa.me/916282376660'))
